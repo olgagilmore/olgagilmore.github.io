@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+title: Welcome to Olga's Page.
+description: Glad you are visiting!
 
 You can use the [editor on GitHub](https://github.com/olgagilmore/olgagilmore.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
